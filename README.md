@@ -49,13 +49,10 @@
 
 💬 Ask me about
 
-- Python
-- React
-- Firebase
-- FastAPI
-- Git & GitHub
-- Web Development
-- LeetCode
+- Python - React
+- Firebase - FastAPI - LeetCode
+- Git & GitHub - Web Development
+
 
 📫 Email
 
