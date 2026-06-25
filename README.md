@@ -34,16 +34,13 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
-🎓 **B.Tech in Computer Science & Engineering (2027)**
+🎓 **B.Tech in Computer Science & Engineering (2027) @JIS University**
 
-💻 Passionate **Full Stack Developer**
-
-🤖 AI Enthusiast
-
+💻 Passionate **Full Stack Developer** 🤖 AI Enthusiast
 🔐 Cybersecurity Learner
 
-🌱 Currently learning
 
+🌱 Currently learning
 - React.js
 - TypeScript
 - FastAPI
