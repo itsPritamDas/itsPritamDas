@@ -319,8 +319,6 @@
 ```
 # 🐍 Contribution Snake
 
-After enabling the GitHub Action, add:
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/itsPritamDas/itsPritamDas/output/github-contribution-grid-snake-dark.svg"/>
 </p>
