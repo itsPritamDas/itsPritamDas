@@ -40,14 +40,6 @@
 🔐 Cybersecurity Learner
 
 
-🌱 Currently learning
-- React.js
-- TypeScript
-- FastAPI
-- Git & GitHub
-- Artificial Intelligence
-- Cybersecurity
-
 👯 Looking to collaborate on
 
 - AI Projects
