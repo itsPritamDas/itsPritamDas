@@ -299,10 +299,8 @@
 - 🛡 Tata Cybersecurity Analyst Job Simulation
 - 🤖 Google AI Study Jam Champion
 ```
-
-# 📚 Currently Learning
-
 ```
+# 📚 Currently Learning
 ⚛️ React.js
 📘 TypeScript
 🐍 FastAPI
