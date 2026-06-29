@@ -198,9 +198,6 @@
 
 </p>
 
----
-'''
-
 
 <!--
 # 🏆 GitHub Trophies
@@ -215,7 +212,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=itsPritamDas&theme=tokyonight" />
 </p>
----
 
 # 💻 Development Workflow
 
